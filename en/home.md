@@ -1,16 +1,5 @@
 # Discord Wiki
 
-Welcome to the **Discord Wiki**! This wiki is dedicated to providing clear and concise information about Discord, whether you're a new user or an experienced server admin.
-
-## Table of Contents
-
-1. [Introduction to Discord](#introduction-to-discord)
-2. [Getting Started](#getting-started)
-3. [Server Management](#server-management)
-4. [Advanced Features](#advanced-features)
-5. [FAQ](#faq)
-6. [Community Guidelines](#community-guidelines)
-
 ## Introduction to Discord
 
 Discord is a popular communication platform designed for creating communities. It allows users to send messages, make voice and video calls, and collaborate in servers dedicated to specific topics.
